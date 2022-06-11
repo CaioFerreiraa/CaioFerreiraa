@@ -1,19 +1,31 @@
-## Olá :)
-Desenvolvedor junior querendo aprender 😃
+## Olá!  :)
+### Desenvolvedor junior querendo aprender 😃
 
 - 🤗 full stack
 - 🌱 Atualmente estudando: Padrões de projetos(MVC) e PHP.
 - 🎓 Cursando curso tecnico Senai: Análise e Desenvolvimento de Sistemas.
 - 📫 E-mail: caio.ferreiraa241@gmail.com 
 
-*"90% do sucesso se baseia em insistir"*<sub> Woody Allen</sub>  
 
+<div align="center" style="display: inline_block"><br>
+  
+  <img align="center" alt="html" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="css" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
+  <img align="center" alt="php" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />    
+  <img align="center" alt="Java" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+  <img align="center" alt="Js" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
+  <img align="center" alt="mysql" height="30em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-<div align="center">
-  <a href="https://github.com/CaioFerreiraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioFerreiraa&show_icons=true&theme=dark&lude_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFerreiraa&layout=compact&langs_count=7&theme=dark">
 </div>
-<div align="right">
-   ᓚᘏᗢ
+
+## 
+  
+<div align="center"> <br>
+
+**"90% do sucesso se baseia em insistir"**<sub> Woody Allen</sub>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+<div align="right">ᓚᘏᗢ</div>
+
+  
